@@ -1,0 +1,119 @@
+body {
+    background: #e3e3e3;;
+}
+
+#hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box {
+    background: #cecece;
+    width: 500px;
+    height: 350px;
+    margin: 15px 20px;
+    border-radius: 20px;
+    color: rgb(104, 121, 160);
+    font-weight: 400;
+    font-family: 'Kanit', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.column {
+    display: flex;
+}
+
+
+
+#btnj {
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    background: #e3e3e3;
+    color: rgb(104, 121, 160);
+    font-weight: 600;
+    font-family: 'Kanit', sans-serif;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+#btnb {
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    background: #e3e3e3;
+    color: rgb(104, 121, 160);
+    font-weight: 600;
+    font-family: 'Kanit', sans-serif;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+#btnrps {
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    background: #e3e3e3;
+    color: rgb(104, 121, 160);
+    font-weight: 600;
+    font-family: 'Kanit', sans-serif;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+
+.btni {
+    width: 45px;
+    height: 45px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: rgb(104, 121, 160);
+            font-weight: 800;
+    text-shadow: 1px 1px black;
+    font-family: 'Kanit', sans-serif;
+}
+
+.grow {
+    transition: all 0.2s ease-in-out;
+}
+
+.grow:hover {
+    transform: scale(1.1);
+}
+
+.btn {
+    display: flex;
+}
+
+a {
+    color:rgb(104, 121, 160);
+    text-decoration: none;
+    margin: 5px;
+}
+
+
+
+a:hover {
+    color:rgb(84, 93, 116);
+}
+
+#jsa {
+    margin: 0 auto;
+}
+#rpa {
+    margin: 0 auto;
+}
+#bja {
+    margin: 0 auto;
+}
