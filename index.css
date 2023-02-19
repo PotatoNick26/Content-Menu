@@ -135,3 +135,21 @@ a:hover {
 #ea {
     margin: 0 auto;
 }
+
+#btnpc {
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    background: #e3e3e3;
+    color: rgb(104, 121, 160);
+    font-weight: 600;
+    font-family: 'Kanit', sans-serif;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+#pca {
+    margin: 0 auto;
+}
