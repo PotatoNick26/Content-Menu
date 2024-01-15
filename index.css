@@ -85,6 +85,7 @@ h1 {
 .grow {
     transition: all 0.2s ease-in-out;
     background: #5372F0;
+    box-shadow: black 1px 1px 4px;
 }
 
 .grow:hover {
